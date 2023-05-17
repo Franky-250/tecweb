@@ -11,5 +11,6 @@ services:
     networks:
       - proyectos-app
 
-  networks:
-    proyectos-app:
+networks:
+  proyectos-app:
+    driver: bridge
