@@ -56,3 +56,5 @@ const eliminar_cliente = (req = request, res = response) => {
 };
 
 module.exports = { createCliente, getCliente, editar_cliente, eliminar_cliente };
+
+// prueba git
